@@ -1,71 +1,56 @@
 <div align="center">
 
-```
-$ whoami
-alok_gupta.dev
-```
+# Alok Gupta
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=600&lines=BCA+student+%7C+Lucknow%2C+India;compiling...+skills+loaded;building+desktop+apps+with+PySide6;shipping+frontend+clones+for+practice;git+commit+-m+%22still+learning%22" />
+BCA Student · Aspiring Developer · Lucknow, India
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![YouTube](https://img.shields.io/badge/-YouTube-black?style=flat-square&logo=youtube)](https://youtube.com/@YOUR_CHANNEL)
 
 </div>
 
----
+<br>
 
-```bash
-> cat about.txt
-```
+## About
 
-```
-Second-semester BCA student focused on programming, digital electronics,
-computer organization & accounting. Learning in public — every project
-below is something I actually built, not a tutorial follow-along.
+Second-semester BCA student building real projects alongside coursework —
+currently working on a full desktop application for shop management, and
+practicing frontend fundamentals through website clones and small concepts.
+Documenting the process on YouTube.
 
-Currently shipping: a full desktop shop management app (PySide6 + SQLAlchemy)
-with licensing and subscription-gated cloud backup.
-```
+<br>
 
-```bash
-> ls ./skills
-```
+## Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,sqlite,html,css,js,react,tailwind,git,github,vscode&theme=dark" />
-</p>
+`Python` `C` `SQL` `JavaScript` `HTML` `CSS` `React` `Tailwind CSS` `SQLAlchemy` `PySide6` `Git`
 
-```bash
-> ls ./projects
-```
+<br>
 
-```
-📁 shop-management-app/     PySide6 desktop app · SQLAlchemy · SQLite3 · licensing system
-📁 myntra-clone/            HTML · CSS · Flexbox · pixel-accurate e-commerce clone
-📁 studysync/               React · Tailwind · student messaging app concept
-```
+## Projects
 
-```bash
-> cat stats.log
-```
+**Shop Management App**
+Full-stack desktop application — inventory & billing, licensing system, subscription-gated cloud backup
+`PySide6` `SQLAlchemy` `SQLite3`
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" />
-</p>
+**Myntra Clone**
+Frontend clone focused on layout precision — navbar, banners, Flexbox
+`HTML` `CSS`
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true&background=0d1117" />
-</p>
+**StudySync**
+Concept messaging app for students
+`React` `Tailwind CSS`
 
-```bash
-> ping alok --connect
-```
+<br>
 
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=39FF14" /></a>
-  <a href="https://youtube.com/@YOUR_CHANNEL"><img src="https://img.shields.io/badge/YouTube-000000?style=flat-square&logo=youtube&logoColor=39FF14" /></a>
-</p>
+## GitHub Activity
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true&hide_title=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default&hide_border=true&hide_title=true" width="48%" />
+</div>
 
-`// building in public, one commit at a time`
+<br>
 
+<div align="center">
+<sub>Thanks for stopping by.</sub>
 </div>
