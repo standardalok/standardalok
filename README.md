@@ -37,9 +37,8 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=standardalok&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=standardalok&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=standardalok&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
