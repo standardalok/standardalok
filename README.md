@@ -33,7 +33,7 @@
 
 ### 📊 GitHub Stats
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=standardalok&theme=tokyonight" />
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=standardalok&theme=tokyonight&hide_border=true" />
 </p>
