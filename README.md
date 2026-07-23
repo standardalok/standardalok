@@ -21,12 +21,12 @@
 ### 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,sqlite,html,css,js,react,tailwind,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,c,sqlite,html,css,js,react,tailwind,git,github,vscode,mysql" />
 </p>
 
 **Languages:** Python · C · SQL · JavaScript
 **Frontend:** HTML5 · CSS3 (Flexbox) · JavaScript · React · Tailwind CSS
-**Backend / Data:** SQLite3 · SQLAlchemy (ORM) · PySide6 (desktop GUI)
+**Backend / Data:** SQLite3 · SQLAlchemy (ORM) · PySide6 (desktop GUI)· mysql 
 **Tools:** Git · GitHub · VS Code
 
 ---
